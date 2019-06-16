@@ -1,0 +1,17 @@
+{
+  "Messages": {
+    "REMEMBER_ME": "Remember me",
+    "USER_NAME": "User Name",
+    "PASSWORD": "Password",
+    "FORGOTT_PASSWORD": "Forgot Password?",
+    "LOG_IN": "Log In",
+    "LOGIN_WITH_GOOGLE": "Login with google",
+    "LOGIN_WITH_FB": "Login with facebook",
+    "DONT_HAVE_ACC": "Don't have an account? ",
+    "SIGN_UP": "Sign Up",
+    "RECOVER_PWD": "Recover Password",
+    "EMAIL_INS": "Enter your Email and instructions will be sent to you! ",
+    "EMAIL": "Email",
+    "RESET": "Reset"
+  }
+}

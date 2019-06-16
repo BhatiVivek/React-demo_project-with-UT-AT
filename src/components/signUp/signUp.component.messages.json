@@ -1,0 +1,15 @@
+{
+  "Messages": {
+    "REGISTER_NOW":"Register Now",
+    "CREATE_ACCOUNT_AND_ENJOY":"Create your account and enjoy",
+    "NAME": "Name",
+    "EMAIL":"Email",
+    "PASSWORD":"Password",
+    "CONFIRM_PASSWORD":"Confirm Password",
+    "I_AGREE_TO_ALL":"I agree to all",
+    "TERMS": "Terms",
+    "SIGN_UP" : "Sign Up",
+    "ALREADY_HAVE_AN_ACCOUNT":"Already have an account?",
+    "SIGN_IN" :"Sign In"
+  }
+}

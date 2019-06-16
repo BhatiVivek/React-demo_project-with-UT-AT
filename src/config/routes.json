@@ -1,0 +1,8 @@
+{
+  "ROUTES":{
+    "HOME": "/home",
+    "TAMPAPP": "/tempApp",
+    "INVESTIGATION":"/investigation",
+    "CREATEINVESTIGATION": "/cInvestigation"
+  }
+}

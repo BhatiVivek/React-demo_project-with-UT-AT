@@ -1,0 +1,18 @@
+{
+  "Messages": {
+    "LAB_NUMBER": "Lab Number",
+    "REFFERED_DOCTOR": "Reffered Doctor",
+    "DATE": "Date",
+    "PATIENT_NAME": "Patient Name",
+    "TEST_TYPE": "Test Type",
+    "DESCRIPTION": "Description",
+    "NORMAL_RANGE":"Normal Range",
+    "UNIT":"Unit",
+    "OBSERVED_VALUE":"Observed Value",
+    "Save_PRINT":"Save & Print Investigation Report",
+    "TOTAL_BILL":"Total Bill (Rs.)",
+    "AMOUNT_PAID":"Amount Paid (Rs.)",
+    "BALANCE":"Balance (Rs.)",
+    "ADD_DESCRIPTION": "Add Description"
+  }
+}

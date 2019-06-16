@@ -1,0 +1,14 @@
+{
+  "Messages": {
+    "SEARCH": "Search",
+    "PRINT": "Print",
+    "CREATE_NEW_REPORT": "Create New Report",
+    "FROM": "From",
+    "TO": "To",
+    "LAB_NO": "LAB No",
+    "DATE":"Date",
+    "PATIENT_NAME":"Patient Name",
+    "BILL_AMOUNT":"Bill Amount",
+    "BALANCE":"Balance"
+  }
+}
